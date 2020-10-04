@@ -8,7 +8,7 @@ In this simple project I have tried to implement my **Node.js** and **React.js**
 
  - Clone the repositry to your directory using 
  ```
- https://github.com/priyanshudubey/Movie-rating-with-node-and-react.git`
+ git clone https://github.com/priyanshudubey/Movie-rating-with-node-and-react.git`
  ```
  - Then move to the **frontend** directory and type the following command:
 	 ```
